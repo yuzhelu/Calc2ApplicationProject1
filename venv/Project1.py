@@ -78,7 +78,7 @@ for i in N:
 
 
 
-## part 6 7 test
+## part 6 data test
 print()
 print("Number 6.1")
 print("\tn\t\tS(n)\t\tError S(n)")
